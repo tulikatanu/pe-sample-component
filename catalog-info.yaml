@@ -4,7 +4,7 @@ metadata:
   name: sample-service
   description: demo service
   annotations:
-    github.com/project-slug: tulikatanu/test
+    github.com/project-slug: tulikatanu/pe-sample-component
 spec:
   type: service
   owner: team-a
